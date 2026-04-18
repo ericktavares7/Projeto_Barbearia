@@ -1,4 +1,9 @@
-
 {
-  "shedules": [ ]
-} 
+  "schedules": [
+    {
+      "id": 1776520758442,
+      "name": "Erick Tavares",
+      "when": "2026-04-18T18:00:00.000Z"
+    }
+  ]
+}
